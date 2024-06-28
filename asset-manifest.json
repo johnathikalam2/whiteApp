@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/whiteApp/static/css/main.e53fb4af.css",
-    "main.js": "/whiteApp/static/js/main.1eb68db5.js",
+    "main.css": "/whiteApp/static/css/main.7322affa.css",
+    "main.js": "/whiteApp/static/js/main.7676fd33.js",
     "static/js/453.affe5fa3.chunk.js": "/whiteApp/static/js/453.affe5fa3.chunk.js",
     "static/media/software.jpg": "/whiteApp/static/media/software.86c66569a3e124d88c5b.jpg",
     "static/media/voip2.jpg": "/whiteApp/static/media/voip2.d362a9f1bca4ddf46c67.jpg",
@@ -20,12 +20,12 @@
     "static/media/slick.ttf": "/whiteApp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/whiteApp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/whiteApp/index.html",
-    "main.e53fb4af.css.map": "/whiteApp/static/css/main.e53fb4af.css.map",
-    "main.1eb68db5.js.map": "/whiteApp/static/js/main.1eb68db5.js.map",
+    "main.7322affa.css.map": "/whiteApp/static/css/main.7322affa.css.map",
+    "main.7676fd33.js.map": "/whiteApp/static/js/main.7676fd33.js.map",
     "453.affe5fa3.chunk.js.map": "/whiteApp/static/js/453.affe5fa3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e53fb4af.css",
-    "static/js/main.1eb68db5.js"
+    "static/css/main.7322affa.css",
+    "static/js/main.7676fd33.js"
   ]
 }
